@@ -8,6 +8,7 @@ This is a template for you to use on your own projects for processing one-time S
 
 > Looking for a simple example? [Node Stripe Example](https://github.com/mjhea0/node-stripe-example)
 
+RazorPay & InstaMojo Integration coming soon.
 The back-end API includes:
 
 1. User auth
